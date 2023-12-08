@@ -28,9 +28,9 @@ gh screensaver
 gh auth login
 ```
 
-- More info on GH[1]
-- More info on Screensaver[2]
+- More info on [GH]
+- More info on [Screensaver]
 
-[Scoop]: (https://scoop.sh/)
-[1]: https://cli.github.com/manual/
-[2]: https://github.com/vilmibm/gh-screensaver
+[Scoop]: https://scoop.sh/
+[GH]: https://cli.github.com/manual/
+[Screensaver]: https://github.com/vilmibm/gh-screensaver
